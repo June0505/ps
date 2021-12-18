@@ -28,3 +28,5 @@ set_result = set(result)
 result = list(set_result)
 
 print(len(result))
+
+# https://www.acmicpc.net/problem/5567
