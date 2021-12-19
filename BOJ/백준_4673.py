@@ -18,3 +18,5 @@ complement.reverse()
 
 for i in range(len(complement)):
   print(complement.pop())
+
+# https://www.acmicpc.net/problem/4673
