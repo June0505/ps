@@ -11,3 +11,5 @@ for i in range(0, N):
             break
 
 print(result)
+
+# https://www.acmicpc.net/problem/1316
